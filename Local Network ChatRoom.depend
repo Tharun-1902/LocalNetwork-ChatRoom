@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1747465894 source:c:\1-c project\learning2\local network chatroom\chatroom.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<commdlg.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+
